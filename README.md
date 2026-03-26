@@ -57,19 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoSchelbauer&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=f7c948&icon_color=f0a500&text_color=e0d5c1"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSchelbauer&layout=compact&langs_count=7&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=f7c948&text_color=e0d5c1"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoSchelbauer&theme=gruvbox&hide_border=true&background=1a1a1a&ring=f7c948&fire=f0a500&currStreakLabel=f7c948" />
-</div>
-
----
-
 ## 🤝 Onde me encontrar
 
 <div align="center">
