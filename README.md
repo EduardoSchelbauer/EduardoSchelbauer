@@ -1,6 +1,6 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c948,100:f0a500&height=200&section=header&text=Eduardo%20Treichel&fontSize=52&fontColor=1a1a1a&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Builder%20of%20things&descAlignY=60&descSize=18&descFontColor=1a1a1a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c948,100:f0a500&height=200&section=header&text=Eduardo%20Treichel&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Builder%20of%20things&descAlignY=60&descSize=18&descFontColor=1a1a1a" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <!-- Intro -->
 <div align="center">
   <h3>
-    👋 Oi, eu sou o <strong>Eduardo</strong> — dev front-end baseado em <strong>Joinville/SC 🇧🇷</strong>
+    👋 Oi, eu sou o <strong>Eduardo</strong> — dev front-end localizado em <strong>Joinville/SC 🇧🇷</strong>
   </h3>
   <p>
     Trabalho no dia a dia com <strong>React, Next.js e TypeScript</strong>, mas não fico só no front.<br/>
@@ -20,11 +20,11 @@
 
 ## 🧠 Sobre mim
 
-- 💼 **Front-End Dev (Pleno)** na [hiSofi](https://hisofi.com.br)
+- 💼 **Front-End Dev (Pleno)** na [hiSofi](https://hisofi.com)
 - 🛠️ Stack principal: **React · Next.js 14 · TypeScript · Node.js · PostgreSQL**
 - ☁️ Infrastructura: **AWS S3 · Railway · Vercel · Docker**
 - 🌱 Atualmente explorando: **Go + Fiber** no backend
-- 🎯 Objetivo: lançar SaaS próprio e comprar um Audi RS3 (a ordem importa)
+- 🎯 Objetivo: lançar SaaS próprio e comprar um Audi RS3 (a ordem importa) haha
 
 ---
 
