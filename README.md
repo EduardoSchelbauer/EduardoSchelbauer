@@ -71,5 +71,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0a500,100:f7c948&height=100&section=footer" />
   <br>
-  <sub>Feito com ☕ e muito café — <strong>Joinville/SC, Brasil</strong></sub>
+  <sub>Feito com muito café ☕ — <strong>Joinville/SC, Brasil</strong></sub>
 </div>
