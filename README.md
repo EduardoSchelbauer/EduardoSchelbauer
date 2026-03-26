@@ -1,6 +1,6 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c948,100:f0a500&height=200&section=header&text=Eduardo%20Treichel&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Builder%20of%20things&descAlignY=60&descSize=18&descFontColor=1a1a1a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7c948,100:f0a500&height=200&section=header&text=Eduardo%20Treichel%20Schelbauer&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Builder%20of%20things&descAlignY=60&descSize=18&descFontColor=1a1a1a" />
 </div>
 
 <br/>
@@ -53,6 +53,14 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+</div>
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/f0a500/EduardoSchelbauer" alt="Contribution Graph" />
 </div>
 
 ---
