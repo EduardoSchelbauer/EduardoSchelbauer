@@ -8,7 +8,7 @@
 <!-- Intro -->
 <div align="center">
   <h3>
-    👋 Oi, eu sou o <strong>Eduardo</strong> — dev front-end localizado em <strong>Joinville/SC 🇧🇷</strong>
+    👋 Olá, Mundo! Eu sou o <strong>Eduardo</strong> — dev front-end localizado em <strong>Joinville/SC 🇧🇷</strong>
   </h3>
   <p>
     Trabalho no dia a dia com <strong>React, Next.js e TypeScript</strong>, mas não fico só no front.<br/>
