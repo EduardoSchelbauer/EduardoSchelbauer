@@ -24,7 +24,7 @@
 - 🛠️ Stack principal: **React · Next.js 14 · TypeScript · Node.js · PostgreSQL**
 - ☁️ Infrastructura: **AWS S3 · Railway · Vercel · Docker**
 - 🌱 Atualmente explorando: **Go + Fiber** no backend
-- 🎯 Objetivo: lançar SaaS próprio e comprar um Audi RS3 (a ordem importa) haha
+- 🎯 Objetivo: lançar SaaS próprio digno do Vale do Silício 
 
 ---
 
