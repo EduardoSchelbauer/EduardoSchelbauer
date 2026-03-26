@@ -20,7 +20,7 @@
 
 ## 🧠 Sobre mim
 
-- 💼 **Front-End Dev (Pleno)** na [hiSofi](https://hisofi.com)
+- 💼 **Front-End Dev (Pleno)** na [hiSofi](https://hisofi.com.br)
 - 🛠️ Stack principal: **React · Next.js 14 · TypeScript · Node.js · PostgreSQL**
 - ☁️ Infrastructura: **AWS S3 · Railway · Vercel · Docker**
 - 🌱 Atualmente explorando: **Go + Fiber** no backend
