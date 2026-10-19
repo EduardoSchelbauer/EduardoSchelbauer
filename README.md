@@ -2,10 +2,10 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/banner-dark-narrow.svg">
   <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/banner-light-narrow.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="Eduardo Treichel Schelbauer. Full-stack developer, Laravel and Nuxt. Hisoft / Podtech, Joinville, Santa Catarina, Brazil." src="./assets/banner-light.svg" width="100%">
+  <img alt="Eduardo Treichel Schelbauer. Full-stack developer, Laravel and Nuxt. Hisoft / Podtech, Santa Catarina, Brazil." src="./assets/banner-light.svg" width="100%">
 </picture>
 
-I'm a full-stack developer at [Hisoft](https://github.com/hisoft-br) / Podtech in Joinville, Santa Catarina, Brazil. My day-to-day is **Acolher**, a social-assistance management platform used by Brazilian municipalities, and I work on both halves of it: the Laravel API and the Nuxt web app.
+I'm a full-stack developer at [Hisoft](https://github.com/hisoft-br) / Podtech in Santa Catarina, Brazil. My day-to-day is **Acolher**, a social-assistance management platform used by Brazilian municipalities, and I work on both halves of it: the Laravel API and the Nuxt web app.
 
 Some of what I've shipped on Acolher:
 
