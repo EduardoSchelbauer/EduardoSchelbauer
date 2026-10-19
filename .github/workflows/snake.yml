@@ -1,0 +1,39 @@
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "40 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/snake.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Dots climb the same indigo-to-magenta night as assets/, so the cyan or magenta
+      # snake is the one bright thing moving across the calendar.
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?palette=github-light&color_snake=#E0368F&color_dots=#F1E9FA,#E2CCF7,#C9A0F0,#A970E6,#7B3FD1
+            dist/snake-dark.svg?palette=github-dark&color_snake=#5CF6FF&color_dots=#1B1035,#3B1F6E,#6B2FA8,#B03FCF,#FF4FB8
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update contribution snake"
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
