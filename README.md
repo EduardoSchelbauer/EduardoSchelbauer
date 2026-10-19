@@ -15,8 +15,6 @@ Some of what I've shipped on Acolher:
 - Scheduling, PDF and XLSX reports, accessibility work, and a UI in Portuguese, English and Spanish.
 - A typecheck gate in CI with a ratcheting baseline, so the error count can only go down.
 
-I work with AI coding agents in a workflow where each change is planned, reviewed and QA'd.
-
 ## Stack
 
 <picture>
