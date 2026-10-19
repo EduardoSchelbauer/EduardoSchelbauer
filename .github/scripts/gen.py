@@ -499,7 +499,7 @@ def frame_start(cv: Canvas, rx: float, scan: float = 1.0) -> str:
 
 NAME = ("EDUARDO TREICHEL", "SCHELBAUER")
 BANNER_TITLE = "Eduardo Treichel Schelbauer"
-BANNER_DESC = ("Full-stack developer, Laravel and Nuxt, at Hisoft / Podtech in Santa Catarina, Brazil. "
+BANNER_DESC = ("Full-stack developer, Laravel and Nuxt, at Podtech in Santa Catarina, Brazil. "
                "Drawn as an 80s synthwave screen: a striped sunset over wireframe ridges and a neon grid.")
 
 
@@ -535,7 +535,7 @@ def banner_wide(theme: str) -> str:
     line = "> FULL-STACK DEVELOPER · LARAVEL + NUXT"
     w = cv.text(line, x, ty, 24, c["cyan"], fit=470)
     cursor(cv, x + w + 6, ty, 24)
-    cv.text("HISOFT / PODTECH · SANTA CATARINA, BRAZIL", x, ty + 26, 20, c["muted"], fit=470)
+    cv.text("PODTECH · SANTA CATARINA, BRAZIL", x, ty + 26, 20, c["muted"], fit=470)
     play_osd(cv, W - 104, 38)
     cv.add("</g>")
     crt_overlay(cv, clip, rx)
@@ -560,7 +560,7 @@ def banner_narrow(theme: str) -> str:
     cv.text("> FULL-STACK DEVELOPER", x, ty, 22, c["cyan"], fit=372)
     w = cv.text("> LARAVEL + NUXT", x, ty + 24, 22, c["cyan"], fit=372)
     cursor(cv, x + w + 6, ty + 24, 22)
-    cv.text("HISOFT / PODTECH", x, ty + 52, 19, c["muted"], fit=372)
+    cv.text("PODTECH", x, ty + 52, 19, c["muted"], fit=372)
     cv.text("SANTA CATARINA, BRAZIL", x, ty + 74, 19, c["muted"], fit=372)
     play_osd(cv, W - 92, 34, 20)
     cv.add("</g>")
